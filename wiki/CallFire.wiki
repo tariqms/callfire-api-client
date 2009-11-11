@@ -1,3 +1,4 @@
+#labels callfire,cloudtelephony
 CallFire is a cloud telephony platform which allows full API access. You can use the callfire-api-client project libraries for php, java and .net to connect to the CallFire API. 
 
 = Details =
