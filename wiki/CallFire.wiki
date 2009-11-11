@@ -1,10 +1,8 @@
-#Introduction to CallFire API Client Project
-
 CallFire is a cloud telephony platform which allows full API access. You can use the callfire-api-client project libraries for php, java and .net to connect to the CallFire API. 
 
 = Details =
 
-The planned support for CallFire functionalities are:
+The planned support for CallFire functionality are:
   # Voice Broadcast
   # Cloud Call Center
   # Direct Connect Call Center
